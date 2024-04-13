@@ -1,0 +1,7 @@
+selenium
+fastapi==0.99.0
+uvicorn[standard]
+requests
+sqlalchemy
+psycopg2
+python-dotenv
